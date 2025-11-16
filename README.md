@@ -28,10 +28,10 @@
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="100" height="50">
     </td>
     <td>
-     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-Database-4479A1?style=flat&logo=mysql&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" width="100" height="50">
+     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="50">
     </td>
   </tr>
 </table>
