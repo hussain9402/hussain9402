@@ -1,14 +1,14 @@
-## 👨‍💻 Software Engineer | Network Administrator | Flutter App Developer | DSA & LeetCode Contributor
+## 👨‍💻 Software Engineer | Flutter App Developer Backend With Laravl(PHP) | Network Engineer
 
-- 🔍 Specializing in Network Engineering & Network Management, Algorithmic Problems.
-- 📱 Exploring App Development to build smart and connected solutions
-- 🛠️ Working on the Tools To Manage and Build the Network
-- 💻 Passionate about continuous learning and improving technical skills.
+- 📱 Flutter Developer: Building responsive, scalable, and user-friendly mobile apps with clean architecture and state management.
+- 🖥️ Laravel Backend Developer: Designing secure and efficient REST APIs, integrating with mobile apps, and handling database management.
+- 🔍 Network Engineering & Security: Experienced in VLANs, routing, switching, and secure network management.
+- 🛠️ Developing tools and solutions to automate, monitor, and manage networks efficiently.
+- 🚀 Passionate about continuous learning, solving algorithmic challenges, and building production-ready solutions.
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hussainahmad02/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/hussainahmad02/)
-[![tryhackme](https://img.shields.io/badge/-tryhackme-00D0A3?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hussainahamd9402)
 
 ---
 
@@ -21,15 +21,17 @@
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="100" height="50">
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="100" height="50">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="100" height="50">
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="100" height="50">
     </td>
     <td>
- <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" width="100" height="50">
-      <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=flat&logo=burp-suite&logoColor=white" width="100" height="50">
+     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Database-4479A1?style=flat&logo=mysql&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" width="100" height="50">
     </td>
   </tr>
 </table>
