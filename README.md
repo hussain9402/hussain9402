@@ -39,7 +39,7 @@
 ---
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad402&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain9402&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 
@@ -47,7 +47,7 @@
 
 ### 📈 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainahmad402&theme=react&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain9402&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
