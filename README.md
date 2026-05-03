@@ -22,15 +22,3 @@ Every great product needs one person who owns it end to end — that's me.<br><b
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hussain9402&theme=dark&layout=compact&hide_border=true" />
 </p>
 
-<!-- ================== QUOTE ================== -->
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hussain9402&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-<!-- ================== PROFILE VIEWS ================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hussain9402&color=blue&style=flat" />
-</p>
