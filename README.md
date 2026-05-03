@@ -12,6 +12,9 @@ Every great product needs one person who owns it end to end — that's me.<br><b
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=hussain9402&theme=dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=hussain9402&theme=dark&hide_border=true" height="150"/>
 </p>
 
