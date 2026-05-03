@@ -25,12 +25,6 @@ Every great product needs one person who owns it end to end — that's me.<br><b
 <!-- ================== QUOTE ================== -->
 <h2 align="center">✍️ Random Dev Quote</h2>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<!-- ================== TOP REPOS ================== -->
-<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=hussain9402&limit=5&theme=dark&combine_all_yearly_contributions=true" />
